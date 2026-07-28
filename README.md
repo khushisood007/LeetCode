@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/khushisood007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/khushisood007/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/khushisood007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/khushisood007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/khushisood007/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
