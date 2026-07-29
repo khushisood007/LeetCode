@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/khushisood007/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/khushisood007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushisood007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/khushisood007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/khushisood007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/khushisood007/LeetCode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/khushisood007/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
