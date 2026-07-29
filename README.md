@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushisood007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khushisood007/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
