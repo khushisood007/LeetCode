@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushisood007/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
