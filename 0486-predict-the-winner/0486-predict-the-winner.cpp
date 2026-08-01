@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int solve(int i,int j,vector<int>& nums){
+    int solve(vector<int>& nums,int i,int j){
         if(i>j){
             return 0;
         }
         if(i==j){
             return nums[i];
         }
-        int i1=nums[i]+min(solve(i+2,j,nums),solve(i+1,j-1,nums));
-        int j1=nums[j]+min(solve(i,j-2,nums),solve(i+1,j-1,nums));
+        int i1=nums[i]-solve(nums,i+1,j);
+        int j1=nums[j]-solve(nums,i,j-1);
         return max(i1,j1);
     }
     bool predictTheWinner(vector<int>& nums){
-        int total_score=accumulate(begin(nums),end(nums),0);
-        int player1_score=solve(0,nums.size()-1,nums);
-        int player2_score=total_score-player1_score;
-        return player1_score>=player2_score;
+        return solve(nums,0,nums.size()-1)>=0;
     }
 };
