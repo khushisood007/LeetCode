@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/khushisood007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/khushisood007/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0022-generate-parentheses) |
+| [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushisood007/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/khushisood007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khushisood007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/khushisood007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting Sort
 |  |
 | ------- |
