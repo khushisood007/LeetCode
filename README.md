@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushisood007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushisood007/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/khushisood007/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/khushisood007/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushisood007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/khushisood007/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/khushisood007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/khushisood007/LeetCode/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushisood007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/khushisood007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/khushisood007/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/khushisood007/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/khushisood007/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/khushisood007/LeetCode/tree/master/0509-fibonacci-number) |
