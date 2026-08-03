@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushisood007/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/khushisood007/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/khushisood007/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/khushisood007/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushisood007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/khushisood007/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/khushisood007/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
