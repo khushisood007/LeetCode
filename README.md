@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/khushisood007/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/khushisood007/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/khushisood007/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/khushisood007/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/khushisood007/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/khushisood007/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/khushisood007/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushisood007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/khushisood007/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khushisood007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/khushisood007/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushisood007/LeetCode/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/khushisood007/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
