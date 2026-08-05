@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushisood007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khushisood007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushisood007/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/khushisood007/LeetCode/tree/master/0146-lru-cache) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushisood007/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/khushisood007/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/khushisood007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khushisood007/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/khushisood007/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/khushisood007/LeetCode/tree/master/0344-reverse-string) |
