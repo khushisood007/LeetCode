@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/khushisood007/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/khushisood007/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/khushisood007/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/khushisood007/LeetCode/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushisood007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/khushisood007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/khushisood007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/khushisood007/LeetCode/tree/master/0735-asteroid-collision) |
+| [0817-linked-list-components](https://github.com/khushisood007/LeetCode/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/khushisood007/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushisood007/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/khushisood007/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0817-linked-list-components](https://github.com/khushisood007/LeetCode/tree/master/0817-linked-list-components) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/khushisood007/LeetCode/tree/master/3731-find-missing-elements) |
