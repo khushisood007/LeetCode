@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushisood007/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/khushisood007/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/khushisood007/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushisood007/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khushisood007/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/khushisood007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/khushisood007/LeetCode/tree/master/0817-linked-list-components) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/khushisood007/LeetCode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushisood007/LeetCode/tree/master/0169-majority-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushisood007/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
