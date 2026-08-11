@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushisood007/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/khushisood007/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/khushisood007/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/khushisood007/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/khushisood007/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/khushisood007/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/khushisood007/LeetCode/tree/master/3731-find-missing-elements) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/khushisood007/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/khushisood007/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/khushisood007/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushisood007/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushisood007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
