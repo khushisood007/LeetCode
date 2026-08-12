@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/khushisood007/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2206-divide-array-into-equal-pairs](https://github.com/khushisood007/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/khushisood007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/khushisood007/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2465-number-of-distinct-averages](https://github.com/khushisood007/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushisood007/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/khushisood007/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/khushisood007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/khushisood007/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/khushisood007/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/khushisood007/LeetCode/tree/master/2465-number-of-distinct-averages) |
