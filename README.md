@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/khushisood007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushisood007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushisood007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/khushisood007/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khushisood007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/khushisood007/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/khushisood007/LeetCode/tree/master/0217-contains-duplicate) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/khushisood007/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/khushisood007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
