@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushisood007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/khushisood007/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushisood007/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/khushisood007/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushisood007/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/khushisood007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushisood007/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushisood007/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/khushisood007/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khushisood007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/khushisood007/LeetCode/tree/master/0817-linked-list-components) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushisood007/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khushisood007/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/khushisood007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/khushisood007/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/khushisood007/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/khushisood007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/khushisood007/LeetCode/tree/master/0402-remove-k-digits) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/khushisood007/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/khushisood007/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushisood007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushisood007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
