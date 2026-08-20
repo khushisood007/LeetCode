@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushisood007/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/khushisood007/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khushisood007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushisood007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/khushisood007/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/khushisood007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/khushisood007/LeetCode/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushisood007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
